@@ -39,3 +39,13 @@
 
 >##  AWS DASHBOARD
 ![](./images/5.AWS%20root%20user.png)
+<<<<<<< HEAD
+=======
+
+
+
+
+>##  AWS DASHBOARD
+![](./IMGS/3.AWS%20account.png)
+
+>>>>>>> e3d735fa0902fc996ae005d97d67e4be83054656
